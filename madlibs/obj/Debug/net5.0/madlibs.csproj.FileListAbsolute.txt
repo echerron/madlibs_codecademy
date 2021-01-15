@@ -1,0 +1,16 @@
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.csprojAssemblyReference.cache
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.AssemblyInfoInputs.cache
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.AssemblyInfo.cs
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.csproj.CoreCompileInputs.cache
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.exe
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.deps.json
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.runtimeconfig.json
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.runtimeconfig.dev.json
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.dll
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\ref\madlibs.dll
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\bin\Debug\net5.0\madlibs.pdb
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.dll
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\ref\madlibs.dll
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.pdb
+C:\Users\echer\OneDrive\Programming\Source\csharp\csfiles\madlibs\obj\Debug\net5.0\madlibs.genruntimeconfig.cache
